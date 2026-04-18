@@ -1,0 +1,7 @@
+{
+  "name": "creditpulse-restored-static",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static deployment package for the restored CreditPulse landing page",
+  "license": "UNLICENSED"
+}
