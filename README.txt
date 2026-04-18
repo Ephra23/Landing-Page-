@@ -1,5 +1,7 @@
-CreditPulse restored static deployment package
+CreditPulse zero-build Vercel package
 
-If Vercel tries to deploy this as Next.js, change the Framework Preset to Other in the project settings.
-Leave the Build Command empty and use the project root as the output source.
-This package is a plain static site and does not require Next.js.
+This package is designed for a brand-new Vercel project.
+Use Framework Preset: Other
+Leave Build Command empty
+Set Output Directory to public if Vercel asks for it
+Do not use Next.js
